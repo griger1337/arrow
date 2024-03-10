@@ -3,7 +3,7 @@ let horosho = 4;
 const otlichno = 5;
 
 const MainFunc = {
-    globalNum:5,
+    globalNum:5321,
 
     CountSomeNumbers: function(funcArg){
         let localNum=10;
